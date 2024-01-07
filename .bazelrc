@@ -1,0 +1,7 @@
+# Automatic bazelrc file created by Conan
+
+build --cxxopt=-std=gnu++14
+build --dynamic_mode=off
+build --compilation_mode=opt
+
+
